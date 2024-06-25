@@ -1,0 +1,5 @@
+Lesson 1: 
+Every neuron is connected to every other neuron. 
+In this case 3
+
+ 
